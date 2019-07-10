@@ -1,0 +1,15 @@
+{
+  "name": "03-bases-nodejs",
+  "version": "2.0.0",
+  "description": "Esto es para aprender nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Andres Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "yargs": "^13.2.4"
+  }
+}
